@@ -1,0 +1,9 @@
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\bin\Debug\AdviseTechAssignment.exe.config
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\bin\Debug\AdviseTechAssignment.exe
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\bin\Debug\AdviseTechAssignment.pdb
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\obj\Debug\AdviseTechAssignment.Form1.resources
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\obj\Debug\AdviseTechAssignment.Properties.Resources.resources
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\obj\Debug\AdviseTechAssignment.csproj.GenerateResource.Cache
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\obj\Debug\AdviseTechAssignment.exe
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\obj\Debug\AdviseTechAssignment.pdb
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\obj\Debug\AdviseTechAssignment.csprojResolveAssemblyReference.cache

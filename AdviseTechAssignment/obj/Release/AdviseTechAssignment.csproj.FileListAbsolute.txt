@@ -1,0 +1,8 @@
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\bin\Release\AdviseTechAssignment.exe.config
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\bin\Release\AdviseTechAssignment.exe
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\bin\Release\AdviseTechAssignment.pdb
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\obj\Release\AdviseTechAssignment.Form1.resources
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\obj\Release\AdviseTechAssignment.Properties.Resources.resources
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\obj\Release\AdviseTechAssignment.csproj.GenerateResource.Cache
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\obj\Release\AdviseTechAssignment.exe
+C:\Users\Lior\Documents\Visual Studio 2013\Projects\AdviseTechAssignment\AdviseTechAssignment\obj\Release\AdviseTechAssignment.pdb
