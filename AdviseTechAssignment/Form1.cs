@@ -332,15 +332,22 @@ namespace AdviseTechAssignment
         private void button4_Click(object sender, EventArgs e)
         {
             double sum = 0;
-            List<Portfolio> csc = loadedPortfolios.PortfolioEntities;
-            foreach (Portfolio c in csc)
+            try
             {
-                char[] getRidOfThese = {'"'};
-                string next = c.MarketValue.Substring(3).TrimEnd(getRidOfThese);
-                double realNumber = Convert.ToDouble(next);
-                sum += realNumber;
+                List<Portfolio> csc = loadedPortfolios.PortfolioEntities;
+                foreach (Portfolio c in csc)
+                {
+                    char[] getRidOfThese = { '"' };
+                    string next = c.MarketValue.Substring(3).TrimEnd(getRidOfThese);
+                    double realNumber = Convert.ToDouble(next);
+                    sum += realNumber;
+                }
+                MessageBox.Show("sum of portfolio market values = " + sum);
             }
-            MessageBox.Show("sum ="+sum);
+            catch (NullReferenceException)
+            {
+                MessageBox.Show("Portfolio.csv has not been loaded yet!");
+            }
         }
     }
 }
